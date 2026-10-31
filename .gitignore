@@ -13,4 +13,5 @@ __pycache__/
 uv.lock
 
 # macOS
-.DS_Store
+.DS_Store.venv/
+*.db
