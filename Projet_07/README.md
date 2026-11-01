@@ -4,9 +4,6 @@ Un agent de voyage qui compose vol + hôtel + activités dans un budget,
 se rattrape quand ça ne rentre pas, explique ses choix et peut réserver,
 avec une interface web Streamlit.
 
-![Résultat du voyage](apercu_resultat.png)
-![Hôtel et programme](apercu_hotel.png)
-
 ## Objectif
 À partir d'une demande (destination, dates, budget par personne, envie libre),
 proposer un voyage complet et expliquer chaque décision. Le tout **sans LLM** :
