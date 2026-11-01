@@ -50,7 +50,7 @@ envie), résultat chiffré, journal de l'agent et bouton de réservation.
 ```bash
 streamlit run app.py
 ```
-![Aperçu de l'application](apercu.png)
+![Aperçu de l'application](Projet_07apercu.png)
 ![Résultat du voyage](apercu_resultat.png)
 ![Hôtel et programme](apercu_hotel.png)
 
